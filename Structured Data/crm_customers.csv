@@ -1,0 +1,36 @@
+customer_id,name,email,industry,status,account_value_k
+1,Newman Green and Fletcher,contact@newmangreenandfletcher.com,Healthcare,Trial,263
+2,Berger LLC,contact@bergerllc.com,Technology,Trial,489
+3,Lee PLC,contact@leeplc.com,Telecommunications,Prospect,139
+4,Rich Spencer,contact@richspencer.com,Retail,Prospect,320
+5,Bailey Love,contact@baileylove.com,Financial Services,Prospect,27
+6,Jordan Ltd,contact@jordanltd.com,Telecommunications,Prospect,100
+7,Brown Group,contact@browngroup.com,Healthcare,Trial,483
+8,James Clark,contact@jamesclark.com,Technology,Trial,407
+9,Rhodes Burke and Love,contact@rhodesburkeandlove.com,Healthcare,Prospect,195
+10,Taylor Group,contact@taylorgroup.com,Financial Services,Prospect,22
+11,Jordan King and Walker,contact@jordankingandwalker.com,Retail,Active,498
+12,Long Lee,contact@longlee.com,Technology,Trial,69
+13,Noble Michael and Robbins,contact@noblemichaelandrobbins.com,Telecommunications,Prospect,178
+14,Wolfe Morris and Johnson,contact@wolfemorrisandjohnson.com,Telecommunications,Prospect,142
+15,Lee Kim and Hines,contact@leekimandhines.com,Telecommunications,Churned,172
+16,Edwards Powell and Howard,contact@edwardspowellandhoward.com,Manufacturing,Trial,291
+17,Mcclain Carpenter,contact@mcclaincarpenter.com,Technology,Churned,64
+18,James Hanson and Hill,contact@jameshansonandhill.com,Telecommunications,Prospect,165
+19,Young Li and Miller,contact@youngliandmiller.com,Retail,Churned,224
+20,Smith Miller and Huynh,contact@smithmillerandhuynh.com,Retail,Prospect,293
+21,Rose Wheeler,contact@rosewheeler.com,Retail,Prospect,28
+22,Davies Johnson,contact@daviesjohnson.com,Healthcare,Churned,272
+23,Perkins Gonzalez and Wallace,contact@perkinsgonzalezandwallace.com,Healthcare,Churned,225
+24,Sanchez Williams and Gibbs,contact@sanchezwilliamsandgibbs.com,Manufacturing,Churned,47
+25,Kelly LLC,contact@kellyllc.com,Healthcare,Prospect,8
+26,Carpenter Garcia,contact@carpentergarcia.com,Manufacturing,Prospect,445
+27,Clements Wagner and Garza,contact@clementswagnerandgarza.com,Technology,Trial,291
+28,Williams Castro and Phillips,contact@williamscastroandphillips.com,Retail,Churned,51
+29,Hernandez Inc,contact@hernandezinc.com,Retail,Prospect,146
+30,Quinn Burns and Ellis,contact@quinnburnsandellis.com,Telecommunications,Trial,414
+31,Smith Gibbs and Martin,contact@smithgibbsandmartin.com,Energy,Prospect,423
+32,Holland Ltd,contact@hollandltd.com,Technology,Trial,25
+33,Lloyd Murray and Trujillo,contact@lloydmurrayandtrujillo.com,Healthcare,Prospect,457
+34,Parker Edwards and Vazquez,contact@parkeredwardsandvazquez.com,Manufacturing,Prospect,111
+35,Sparks Garcia,contact@sparksgarcia.com,Retail,Churned,390

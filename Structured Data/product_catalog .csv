@@ -1,0 +1,11 @@
+product_id,name,category,price_usd,billing_type
+1,CloudSync Enterprise,DevOps,23889.05,Monthly
+2,DataVault Pro,SaaS,42042.25,Monthly
+3,SecureGate Platform,Data Management,34794.41,Annual
+4,AnalyticsPro Suite,DevOps,1671.09,Monthly
+5,InfraOptimizer,Security,1012.89,Monthly
+6,APIGateway Plus,SaaS,38918.08,Enterprise
+7,MonitorHub,SaaS,737.02,Enterprise
+8,DeployMaster,Data Management,16028.14,Enterprise
+9,DataPipeline X,Data Management,24201.05,Annual
+10,QuantumDB,Security,24145.03,Enterprise
